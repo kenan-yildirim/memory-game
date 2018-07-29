@@ -19,34 +19,14 @@ The Memory Game has dependencies on Bootstrap, JQuery and Google Fonts Libraries
 ```
 
 ## Installing
-A step by step series of examples that tell you how to get a development env running
+Simply download files and open index.html file on any browser (Chrome, Firefox, Internet Explorer, Safari etc) to play the game. 
 
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-Explain how to run the automated tests for this system
-
-## Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-## And coding style tests
-Explain what these tests test and why
-
-Give an example
 ## Deployment
-Add additional notes about how to deploy this on a live system
+
 
 ## Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
+HTML, CSS, JavaScript languages and above mentioned libraries used.
+
 ## Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -54,25 +34,8 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 ## Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+Kenan Yildirim
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+There is no license for this project. It is open source and can be used without getting permisson from author.
 
-## Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-
-
-
-
-
-Memory Game Project
-
-How To Play:
-
-This is a memory matching card game. The goal is to match each card's icon with its pair. There are 16 cards and 8 pairs total. Click on a card, remember its icon and spot in the grid, then continue clicking other cards until you find its match. The game ends once all pairs are matched.
-
-Keep track of progress in the score panel area by viewing the star rating, how many moves have been made, and how long it takes to finish the game.
